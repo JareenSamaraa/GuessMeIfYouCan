@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1649366759 source:d:\retakes\p200\guessmeifyoucan\main.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649620758 source:d:\retakes\p200\guessmeifyoucan\level1.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649620853 d:\retakes\p200\guessmeifyoucan\levels.h
+	<bits/stdc++.h>
+
+1649193668 source:d:\retakes\p200\guessmeifyoucan\randomguess.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649620853 source:d:\retakes\p200\guessmeifyoucan\level2.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649620820 source:d:\retakes\p200\guessmeifyoucan\level3.cpp
+
+1649620758 source:d:\retakes\p200\milestone 1\guessmeifyoucan\level1.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649620853 d:\retakes\p200\milestone 1\guessmeifyoucan\levels.h
+	<bits/stdc++.h>
+
+1649620853 source:d:\retakes\p200\milestone 1\guessmeifyoucan\level2.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649620820 source:d:\retakes\p200\milestone 1\guessmeifyoucan\level3.cpp
+
+1650775801 source:d:\retakes\p200\milestone 1\guessmeifyoucan\main.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649193668 source:d:\retakes\p200\milestone 1\guessmeifyoucan\randomguess.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649620758 source:d:\retakes\p200\guessmeifyoucangame\level1.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649620853 d:\retakes\p200\guessmeifyoucangame\levels.h
+	<bits/stdc++.h>
+
+1649620853 source:d:\retakes\p200\guessmeifyoucangame\level2.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1650775801 source:d:\retakes\p200\guessmeifyoucangame\main.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
+1649193668 source:d:\retakes\p200\guessmeifyoucangame\randomguess.cpp
+	<bits/stdc++.h>
+	"Levels.h"
+
