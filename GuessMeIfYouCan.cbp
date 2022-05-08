@@ -28,6 +28,7 @@
 		<Unit filename="level1.cpp" />
 		<Unit filename="level2.cpp" />
 		<Unit filename="level3.cpp" />
+		<Unit filename="level4.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

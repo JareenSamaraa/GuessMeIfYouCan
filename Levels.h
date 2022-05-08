@@ -6,6 +6,8 @@ using namespace std;
 
 int LevelOne();
 int LevelTwo();
-
+int LevelThree();
+int LevelFour();
 int GuessRandom(int, int);
+
 string GetPlayerName();
